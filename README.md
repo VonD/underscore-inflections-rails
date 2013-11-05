@@ -3,7 +3,7 @@
 In your Gemfile :
 
 ```ruby
-gem 'underscore-inflections-rails'
+gem 'underscore-inflections-rails', '>= 1.1.0'
 ```
 
 In your javascript manifest :
