@@ -16,4 +16,5 @@ In your javascript manifest :
 ## Licence
 
 The underscore.inflections.js library can be found here : https://github.com/geetarista/underscore.inflections
+
 It depends on the underscore.string.js library : http://epeli.github.io/underscore.string/
